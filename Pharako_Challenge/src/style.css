@@ -1,0 +1,21 @@
+body{
+  background-color: darkgrey;
+}
+h1, p {
+  font-family: Lato;
+}
+.container{
+  width: fit-content;
+  max-height: 1080px;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.button{
+  background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
